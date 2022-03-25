@@ -101,7 +101,7 @@ Gitpod makes this easy. One simple URL deploys the entire system.
 __A detailed breakdown of the initialization phase can be found on the wiki [initialization page](https://github.com/apolopena/gitpod-laravel-starter/wiki/Initialization)__
 
    - Paste your GitHub repository URL to the end of the special Gitpod URL: **https://gitpod.io/#/**.
-   - If you don't need to push changes and you just want to try this repository with the default configuration you can click here [![Try it out on on Gitpod.io](https://gitpod.io/button/open-in-gitpod.svg)](http://gitpod.io/#/https://github.com/apolopena/gitpod-laravel-starter)
+   - If you don't need to push changes and you just want to try this repository with the default configuration you can click here [![Try it out on on Gitpod.io](https://gitpod.io/button/open-in-gitpod.svg)](http://gitpod.io/#/https://github.com/armandomeeuwenoord/gitpod-laravel-starter)
    - Instructions for setting up a repository of your own can be found on the wiki [setup page](https://github.com/apolopena/gitpod-laravel-starter/wiki/Setup)
 
 Initializing the workspace will take between 2 to 5 minutes depending on how you have [configured](#starter-project-configuration) the [`starter.ini`](https://github.com/apolopena/gitpod-laravel-starter/blob/main/starter.ini) file. Subsequent starts or creation of a workspace from your repository will be much faster thanks to caching mechanisms.
